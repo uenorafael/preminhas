@@ -1,1 +1,1 @@
-# preminhas
+# alura-premas
